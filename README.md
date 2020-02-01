@@ -50,3 +50,14 @@ public void fireParticle(ParticleEmitter particle,Vector3f prticlePos )
  fireParticle(  particle,posIn3D );
  
  ```
+ 
+ ### Screenshots
+
+![ParticleAnimPack1](../master/img/ParticleAnimPack1.jpg)
+
+![ParticleAnimPack2](../master/img/ParticleAnimPack2.jpg)
+
+![ParticleAnimPack3](../master/img/ParticleAnimPack3.jpg)
+
+![ParticleAnimPack4](../master/img/ParticleAnimPack4.jpg)
+
