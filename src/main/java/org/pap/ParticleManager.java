@@ -1,4 +1,4 @@
-package org.pap;
+package main.java.org.pap;
 
  
 import com.jme3.app.Application;
